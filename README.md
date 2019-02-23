@@ -24,6 +24,19 @@ This repository is for the paper
 
 ## Other experiments:
 
- * Unfortunately we don't plan to release the code for other experiments, but the method to compute the loss and gradients are quite similar to other architectures.
+ * Unfortunately we don't plan to release the codes for other experiments.
 
+## Citation:
 
+If you find this repo useful for your research, please cite the paper
+
+```
+@inproceedings{
+lee2018towards,
+title={Towards Robust, Locally Linear Deep Networks},
+author={Guang-He Lee and David Alvarez-Melis and Tommi S. Jaakkola},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=SylCrnCcFX},
+}
+```
