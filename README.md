@@ -20,7 +20,7 @@ This repository is for the paper
    * `cd fc_log`
    * `python ../parse_log.py --file-list ../fc_log.list`
 
- * To see the best model in terms of the median of L2 margin given each validation accuracy. Then we recommend to look into the log file to finally see the testing accuracy on the desired model.
+ * To inspect the best model in terms of the median of L2 margin given each validation accuracy, please look into the log file to see the testing scores of the model.
 
 ## Other experiments:
 
