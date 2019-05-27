@@ -32,11 +32,11 @@ If you find this repo useful for your research, please cite the paper
 
 ```
 @inproceedings{
-lee2018towards,
-title={Towards Robust, Locally Linear Deep Networks},
-author={Guang-He Lee and David Alvarez-Melis and Tommi S. Jaakkola},
-booktitle={International Conference on Learning Representations},
-year={2019},
-url={https://openreview.net/forum?id=SylCrnCcFX},
+  lee2018towards,
+  title={Towards Robust, Locally Linear Deep Networks},
+  author={Guang-He Lee and David Alvarez-Melis and Tommi S. Jaakkola},
+  booktitle={International Conference on Learning Representations},
+  year={2019},
+  url={https://openreview.net/forum?id=SylCrnCcFX},
 }
 ```
